@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/02_.iml" filepath="$PROJECT_DIR$/.idea/02_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java-vscode/meu-primeiro-projeto-java-vscode.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java-vscode/meu-primeiro-projeto-java-vscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novo-projeto-confgithub/novo-projeto-confgithub.iml" filepath="$PROJECT_DIR$/novo-projeto-confgithub/novo-projeto-confgithub.iml" />
+    </modules>
+  </component>
+</project>

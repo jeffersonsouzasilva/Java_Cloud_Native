@@ -1,0 +1,4 @@
+Dentro do VSCode:
+
+ctrl + shift + p abri terminal para iniciar um projeto e escolher o tipo do projeto
+ctrl + , abrir a configuração
