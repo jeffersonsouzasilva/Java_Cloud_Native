@@ -1,0 +1,10 @@
+Recursos Adicionais
+
+Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns materiais complementares específicos:
+ https://flywaydb.org/
+ https://www.liquibase.com/
+ Mysql download: https://dev.mysql.com/downloads/mysql/
+ Datafaker: https://www.datafaker.net/
+
+Repositório Git
+ https://github.com/digitalinnovationone/jdbc-sample

@@ -1,0 +1,4 @@
+Dicas/Links Úteis
+Por fim, disponibilizamos alguns links úteis para que você possa se desenvolver ainda mais através de referências oficiais das tecnologias, páginas de documentação e/ou fóruns de discussão relevantes. Nesse contexto, seguem algumas sugestões:
+ https://www.mongodb.com/blog/post/building-with-patterns-a-summary
+ https://docs.mongodb.com/manual/aggregation/
